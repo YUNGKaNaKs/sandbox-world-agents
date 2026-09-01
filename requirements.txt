@@ -1,0 +1,3 @@
+pygame>=2.1
+pymunk>=6.1
+numpy>=1.23
