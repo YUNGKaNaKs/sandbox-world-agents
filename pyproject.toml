@@ -1,0 +1,11 @@
+[project]
+name = "sandbox-world-agents"
+version = "0.1.0"
+description = "A physics-based 2D sandbox world simulation with AI agent inhabitants"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pygame>=2.1",
+    "pymunk>=6.1",
+    "numpy>=1.23",
+]
